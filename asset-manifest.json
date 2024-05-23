@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/puntaParaiso/static/css/main.ae42ac5f.css",
-    "main.js": "/puntaParaiso/static/js/main.601d032c.js",
-    "index.html": "/puntaParaiso/index.html",
-    "main.ae42ac5f.css.map": "/puntaParaiso/static/css/main.ae42ac5f.css.map",
-    "main.601d032c.js.map": "/puntaParaiso/static/js/main.601d032c.js.map"
+    "main.css": "/static/css/main.ae42ac5f.css",
+    "main.js": "/static/js/main.90587ab7.js",
+    "index.html": "/index.html",
+    "main.ae42ac5f.css.map": "/static/css/main.ae42ac5f.css.map",
+    "main.90587ab7.js.map": "/static/js/main.90587ab7.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.601d032c.js"
+    "static/js/main.90587ab7.js"
   ]
 }
